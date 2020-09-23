@@ -1,4 +1,4 @@
-# _Hello_ _Cube_: an absolutely minimal "Hello World"-type 3d app, using Kivy and OpenGL
+# _Hello_ _Cube_ : a very simple example of how to use OpenGL with Kivy -- displaying a rotating wireframe cube
 
 So, you're reasonably familiar with python, and it just happens so that you want to do something that involves 3d graphics. Preferably something that can run on your phone or tablet. And you've read about this thing called Kivy, and you've read that it allows you to write an app for Android or iOS, using python.
 	
